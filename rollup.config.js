@@ -9,7 +9,7 @@ export default {
   output: {
     file: "dist/toast.min.js",
     format: "umd",
-    name: "Toast"
+    name: "toast"
   },
   plugins: [postcss({ plugins: [autoprefixer, cssnano] }), babel({ exclude: "node_modules/**" }), uglify()]
 };

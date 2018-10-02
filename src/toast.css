@@ -1,18 +1,16 @@
 .toast {
-  background-color: rgba(0, 0, 0, 0.65);
-  color: #fff;
-  padding: 10px 20px;
-  border-radius: 999px;
-  font-size: 16px;
-  text-align: center;
   position: fixed;
   top: 80%;
   left: 50%;
+  padding: 10px 20px;
+  border-radius: 999px;
   transform: translate(-50%, -50%);
-
   animation-name: TOAST-APPEAR;
   animation-timing-function: ease-in;
-  animation-duration: 3s;
+  text-align: center;
+  font-size: 16px;
+  background-color: rgba(0, 0, 0, 0.65);
+  color: #fff;
 }
 
 @keyframes TOAST-APPEAR {
