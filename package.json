@@ -1,7 +1,7 @@
 {
   "name": "toast",
   "version": "1.0.1",
-  "description": "一个 Toast 弹框插件，遵守 umd 规范",
+  "description": "一个 toast 弹框插件，遵守 umd 规范",
   "main": "dist/toast.min.js",
   "repository": "git@github.com:xiaojun1994/toast.git",
   "author": "xiaojun1994 <362896731@qq.com>",
