@@ -1,6 +1,6 @@
 # toast
 
-一个 Toast 弹框插件，遵守 umd 规范
+一个 toast 弹框插件，遵守 umd 规范
 
 ## 直接用\<script>引入
 
